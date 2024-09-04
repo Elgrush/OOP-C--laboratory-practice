@@ -1,0 +1,4 @@
+﻿  Exam.cpp
+C:\Users\Никита\Desktop\ДЗ Жизнь в дурдоме\CodingSpace\OOP 23-24\Lab\Exam\Exam\Exam.cpp(104,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Никита\Desktop\ДЗ Жизнь в дурдоме\CodingSpace\OOP 23-24\Lab\Exam\Exam\Exam.cpp(174,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exam.vcxproj -> C:\Users\Никита\Desktop\ДЗ Жизнь в дурдоме\CodingSpace\OOP 23-24\Lab\Exam\x64\Debug\Exam.exe
