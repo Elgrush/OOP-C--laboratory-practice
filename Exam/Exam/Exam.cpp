@@ -1,5 +1,4 @@
 ﻿//3 вариант
-//eklyshinsky@hse.ru
 
 #include <iostream>
 #include <vector>
